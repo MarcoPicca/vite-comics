@@ -1,22 +1,22 @@
 <template lang="">
     <div class="container-header">
-        <section class="conatiner-logo">
-            <img class="logo" src="../assets/img/img/dc-logo.png" alt="logo DC comics">
-        </section>
-        <nav>
-            <ul>
-                <li>Characters</li>
-                <li>Comics</li>
-                <li>Movie</li>
-                <li>Tv</li>
-                <li>Games</li>
-                <li>Collectibles</li>
-                <li>Videos</li>
-                <li>Fans</li>
-                <li>News</li>
-                <li>Shop</li>
+        <div class="container-content-header">
+            <section class="container-logo">
+                <img class="logo" src="../assets/img/img/dc-logo.png" alt="logo DC comics">
+            </section>
+            <ul class="container-nav-list">
+                <li class="nav-list">Characters</li>
+                <li class="nav-list">Comics</li>
+                <li class="nav-list">Movie</li>
+                <li class="nav-list">Tv</li>
+                <li class="nav-list">Games</li>
+                <li class="nav-list">Collectibles</li>
+                <li class="nav-list">Videos</li>
+                <li class="nav-list">Fans</li>
+                <li class="nav-list">News</li>
+                <li class="nav-list">Shop</li>
             </ul>
-        </nav>
+        </div>
     </div>
 </template>
 <script>
