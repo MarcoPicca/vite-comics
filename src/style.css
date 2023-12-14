@@ -43,7 +43,7 @@
 }
 
 .nav-list{
-  width: calc( ( 100% / 10 ) - 1 rem);
+  width: calc ( 100% / 10 ) - 1 rem ;
   height: 80px;
   text-transform: uppercase;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
