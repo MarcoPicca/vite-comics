@@ -4,44 +4,44 @@
             <div class="column-header-footer">
                 <h3 class="title-content-footer">DC COMICS</h3>
                 <ul class="footer-list">
-                    <li class="list">Characters</li>
-                    <li class="list">Comics</li>
-                    <li class="list">Movie</li>
-                    <li class="list">Tv</li>
-                    <li class="list">Games</li>
-                    <li class="list">Videos</li>
-                    <li class="list">News</li>
+                    <li class="list-footer">Characters</li>
+                    <li class="list-footer">Comics</li>
+                    <li class="list-footer">Movie</li>
+                    <li class="list-footer">Tv</li>
+                    <li class="list-footer">Games</li>
+                    <li class="list-footer">Videos</li>
+                    <li class="list-footer">News</li>
                 </ul>
                 <h3 class="title-content-footer">DC COMICS</h3>
                 <ul class="footer-list">
-                    <li class="list">Shop DC</li>
-                    <li class="list">Shop DC Collectibles</li>
+                    <li class="list-footer">Shop DC</li>
+                    <li class="list-footer">Shop DC Collectibles</li>
                 </ul>
             </div>
             <div class="column-header-footer">
                 <h3 class="title-content-footer">DC</h3>
                 <ul class="footer-list">
-                    <li class="list">Characters</li>
-                    <li class="list">Comics</li>
-                    <li class="list">Movie</li>
-                    <li class="list">Tv</li>
-                    <li class="list">Games</li>
-                    <li class="list">Videos</li>
-                    <li class="list">News</li>
-                    <li class="list">Tv</li>
-                    <li class="list">Games</li>
-                    <li class="list">Videos</li>
-                    <li class="list">News</li>
+                    <li class="list-footer">Characters</li>
+                    <li class="list-footer">Comics</li>
+                    <li class="list-footer">Movie</li>
+                    <li class="list-footer">Tv</li>
+                    <li class="list-footer">Games</li>
+                    <li class="list-footer">Videos</li>
+                    <li class="list-footer">News</li>
+                    <li class="list-footer">Tv</li>
+                    <li class="list-footer">Games</li>
+                    <li class="list-footer">Videos</li>
+                    <li class="list-footer">News</li>
                 </ul>
             </div>
             <div class="column-header-footer">
                 <h3 class="title-content-footer">SITES</h3>
                 <ul class="footer-list">
-                    <li class="list">Characters</li>
-                    <li class="list">Comics</li>
-                    <li class="list">Movie</li>
-                    <li class="list">Tv</li>
-                    <li class="list">Games</li>
+                    <li class="list-footer">Characters</li>
+                    <li class="list-footer">Comics</li>
+                    <li class="list-footer">Movie</li>
+                    <li class="list-footer">Tv</li>
+                    <li class="list-footer">Games</li>
                 </ul>
             </div>
         </div>
