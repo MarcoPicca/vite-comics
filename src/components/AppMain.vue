@@ -1,7 +1,7 @@
 <template lang="">
     <div class="container-main">
         <section class="container-header-main">
-            <h2 class="content-header-main">Content goes here</h2>
+            <h2 class="content-header-main"><i class="fa-solid fa-arrow-right-long arrow fa-lg" style="color: #ffffff;"></i>Content goes here<i class="fa-solid arrow fa-arrow-left-long fa-lg" style="color: #ffffff;"></i></h2>
         </section>
         <section class="container-footer-main">
             <div class="container-footer-main-cards">
