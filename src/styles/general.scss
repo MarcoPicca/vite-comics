@@ -1,0 +1,5 @@
+@use './partials/mixins.scss' as *;
+
+*{
+    @include reset;
+}

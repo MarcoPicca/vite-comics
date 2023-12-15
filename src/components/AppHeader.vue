@@ -24,6 +24,49 @@ export default {
     name: 'AppHeader',
 }
 </script>
-<style lang="">
-    
+
+<style lang="scss" scoped>
+.container-header{
+  width: 100%;
+}
+
+.container-content-header{
+  width: 63%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-logo{
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  width: 50px;
+  height: 50px;
+}
+
+.container-nav-list{
+  width: 55%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-list{
+  width: calc ((100% / 10) - 1 rem );
+  height: 80px;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: .5rem;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 </style>

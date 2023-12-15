@@ -82,6 +82,122 @@ export default {
 }
 </script>
 
-<style lang="">
-    
+<style lang="scss" scoped>
+.container-header-footer{
+  width: 100%;
+  background-image: url(../assets/img/img/footer-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.container-content-header-footer{
+  width: 70%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.column-header-footer{
+  width: 13%;
+  height: 350px;
+}
+
+.title-content-footer{
+  color: white;
+  font-weight: lighter;
+  padding-top: 2rem;
+  margin-bottom: .7rem;
+}
+
+.footer-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: .8rem;
+}
+
+.list-footer{
+  width: 100%;
+  height: 18px;
+  color: gray;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.mega-icon-bg{
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 1000px;
+  right: 230px;
+}
+
+.container-footer-footer{
+  width: 100%;
+  height: 87px;
+  background-color: #303030;
+  position: relative;
+  z-index: 0;
+}
+
+.container-content-footer-footer{
+  width: 63%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-footer{
+  width: 130px;
+  height: 45px;
+  text-transform: uppercase;
+  background-color: #303030;
+  color: white;
+  border: 2px solid #195994;
+}
+
+.container-icon-footer{
+  width: 35%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container-text-icon{
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: .6rem;
+}
+
+.title-icon-footer{
+  text-transform: uppercase;
+  color: #026EB1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-icon{
+  width: calc(75% / 5);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-footer{
+  width: 25px;
+  height: 25px;
+}
 </style>
